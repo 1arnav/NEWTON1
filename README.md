@@ -1,9 +1,9 @@
-<!doctype>
+
 <head>
 <html>
 <title>NEWTON</title>
 <link rel="stylesheet"href="NEWTON.css">
-<script src="NEWTON.js"></script>
+
 </html>
 </head>
 <h1>Isaac Newton </h1>
